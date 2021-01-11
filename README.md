@@ -13,3 +13,7 @@
 * Install all dependecies by running `npm install`
 
 * Next step is to start the server by running `npm run devStart`
+
+## Documentation
+
+# Full API Documentation is available here: https://www.getpostman.com/collections/3b512d0924aa0693573c
