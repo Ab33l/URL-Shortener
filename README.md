@@ -1,6 +1,6 @@
 # URL-Shortener
 
-## URL Shortener web application buit with NodeJs, MongoDB and Express
+## URL Shortener web application built with NodeJs, MongoDB and Express
 
 ### Setup Instructions
 
