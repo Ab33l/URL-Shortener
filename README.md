@@ -16,4 +16,4 @@
 
 ## Documentation
 
-Full API Documentation is available here: `https://www.getpostman.com/collections/3b512d0924aa0693573c`
+Full API Documentation is available here: (https://www.getpostman.com/collections/3b512d0924aa0693573c)
